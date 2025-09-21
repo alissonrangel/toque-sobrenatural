@@ -27,9 +27,15 @@ a{
 h1, h2{
     text-align: center;
 }
+h3{
+    font-size: 30px;
+}
 section{
     padding: 5px;
     font-size: 17px;
     line-height: 23px;    
 }
 
+span{
+    color: red;
+}
